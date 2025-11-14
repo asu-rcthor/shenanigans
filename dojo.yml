@@ -1,6 +1,6 @@
-id: example
-name: Example Dojo
-type: example
+id: "asu-rcthor-thesis"
+name: "CSE 360 test"
+type: hidden
 image: pwncollege/challenge-simple
 modules:
   - id: CSE360
