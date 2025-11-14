@@ -1,6 +1,6 @@
 id: "asu-rcthor-thesis"
 name: "CSE 360 test"
 type: hidden
-image: pwncollege/challenge-simple
+image: pwncollege/challenge-legacy:latest
 modules:
   - id: cse360
