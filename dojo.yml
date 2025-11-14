@@ -3,4 +3,4 @@ name: "CSE 360 test"
 type: hidden
 image: pwncollege/challenge-simple
 modules:
-  - id: CSE360
+  - id: cse360
